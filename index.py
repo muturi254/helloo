@@ -1,3 +1,3 @@
 names = ['peter', 'muturi']
 
-# print(names)
+print(names)
